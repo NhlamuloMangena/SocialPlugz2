@@ -10,7 +10,8 @@ Figure 1: Is the Social Plugz App Interface
 Figure 2: Pressing the "Suggest button"
 
 Suggest button is used to send the user input into the code in order to display the corresponding task for the specific time of the day.
-<img width="537" height="332" alt="SP Suggestion" src="https://github.com/user-attachments/assets/648d4cc7-d07b-4c5c-8278-f2be7bd28998" />
+<img width="537" height="332" alt="SP Suggestion" src="https://github.com/user-attachments/assets/1d3dd862-56eb-4f07-96b6-1c2ecdae7e85" />
+
 
 Figure 3: Pressing the "Reset button"
 
