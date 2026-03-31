@@ -4,7 +4,6 @@ This app can help stay connected while providing users with a specific task they
 https://youtu.be/RpxD6ml7DoI
 
 Figure 1: Is the Social Plugz App Interface
-
 <img width="535" height="330" alt="SP interface" src="https://github.com/user-attachments/assets/18604262-b7cb-4876-be65-02120e0cdc9c" />
 
 Figure 2: Pressing the "Suggest button"
